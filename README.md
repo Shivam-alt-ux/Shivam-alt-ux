@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Shivam 👋
 
-<!--
-**Shivam-alt-ux/Shivam-alt-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer working with **React, Node.js, TypeScript, and PostgreSQL**.
 
-Here are some ideas to get you started:
+I like building complete, working systems end to end — from database schema to a UI someone can actually click through. Currently focused on sharpening backend architecture and clean API design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Recent work**
+- [Mini ERP + CRM Operations Portal](https://github.com/Shivam-alt-ux/Mini-ERP-CRM-Operations-Portal) — full-stack ERP/CRM system (Node/Express/Prisma/PostgreSQL + React), with role-based auth and transactional stock-management logic
+- [Intern E-commerce Project](https://github.com/Shivam-alt-ux/intern-ecommerce-shivam) — e-commerce application built during internship
+- [Tractor Owner App](https://github.com/Shivam-alt-ux/Tractor_Owner_App) — application for tractor owners
+- [Real-time Chat Application](https://github.com/Shivam-alt-ux/-Real-time-Chat-Application)
+- [WalletApp — Personal Finance Tracker](https://github.com/Shivam-alt-ux/WalletApp-Personal-Finance-Tracker)
+
+**📍 Bangalore** · [LinkedIn](https://linkedin.com/in/shivam-kumar-yadav-17452827b) · shivam.yadv784@gmail.com
